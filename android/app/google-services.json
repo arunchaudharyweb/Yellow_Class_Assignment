@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734069401829",
+    "project_id": "yellow-class-c82ce",
+    "storage_bucket": "yellow-class-c82ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734069401829:android:129f5591d894006aa70c0c",
+        "android_client_info": {
+          "package_name": "com.yellowclass.yellow_class_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734069401829-ftuahg3qp83c9qiaetund7qt12f1lv8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yellowclass.yellow_class_assignment",
+            "certificate_hash": "8428c71f0c3c4c9a432e441f05a015dfa76d113c"
+          }
+        },
+        {
+          "client_id": "734069401829-u36c7bu1vi629v0f5dh8ds4r070eafcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yellowclass.yellow_class_assignment",
+            "certificate_hash": "893931c793e1cea6e52b15dff432390e357fdc98"
+          }
+        },
+        {
+          "client_id": "734069401829-qv5srgvme24gktttjh3o93etla3ogiu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCca-i35hYNW4R7q469HOfgIDTSijjjSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734069401829-qv5srgvme24gktttjh3o93etla3ogiu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
